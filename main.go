@@ -1,7 +1,9 @@
 package main
 
-import day01 "tomrechtig.com/aoc2023/days/day01"
+import (
+	"tomrechtig.com/aoc2023/days/day02"
+)
 
 func main() {
-	day01.FirstDayPartTwo()
+	day02.Day02PartOne()
 }
